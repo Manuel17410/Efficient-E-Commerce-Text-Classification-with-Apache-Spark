@@ -16,7 +16,7 @@ This project focuses on text classification for an e-commerce dataset, categoriz
 * Null values were eliminated
 * Some rows were eliminated, because the text information was transposing to the class column.
 
-  ![Example Image](pics/Newplot(1).png)
+  ![Example Image](images/Newplot(1).png)
 
 ## Feature Engineering
 
